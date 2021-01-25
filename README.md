@@ -1,5 +1,5 @@
 # Auth0App
-
+Creación de un Login con Auth0, uso de servicios para bloquear rutas que no son válidas si el usuario no esta autenticado.(Guard)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
 
 ## Development server

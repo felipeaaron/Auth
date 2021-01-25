@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# About
+Creación de un Login con Auth0, uso de servicios para bloquear rutas que no son válidas si el usuario no esta autenticado.(Guard)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
